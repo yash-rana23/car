@@ -1,0 +1,19 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "hye this is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-rana23/car.git"
+  },
+  "author": "yash rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash-rana23/car/issues"
+  },
+  "homepage": "https://github.com/yash-rana23/car#readme"
+}
